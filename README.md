@@ -1,2 +1,3 @@
 # scala-types
+
 Atypically Typed
